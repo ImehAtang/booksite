@@ -272,7 +272,7 @@ section{
 }
 
 .home{
-     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("../images/blog 4.jpg") no-repeat;
+     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("blog 4.jpg") no-repeat;
      background-size: cover;
      background-position: center;
 }
@@ -476,7 +476,7 @@ section{
 /*---------------- newsletter section ----------------*/
 
 .newsletter{
-    background: url("../images/blog 1.jpg") no-repeat;
+    background: url("blog 1.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
